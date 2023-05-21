@@ -1,2 +1,3 @@
 # write_ahead_logging
-Implement Write Ahead Logging
+- Implemented Write Ahead Logging
+- Implemented database recovery mechanism by undo/redo(required for dbms implementing immediate update)
